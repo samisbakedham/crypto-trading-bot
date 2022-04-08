@@ -16,7 +16,7 @@
     }
   ],
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "basic-auth": "^2.0.1",
     "better-queue": "^3.8.10",
     "better-sqlite3": "^5.4.2",
@@ -51,7 +51,7 @@
     "tulind": "^0.8.15",
     "twig": "^1.15.1",
     "typescript": "^3.9.2",
-    "winston": "^3.2.1",
+    "winston": "^3.3.0",
     "winston-telegram": "^2.5.0",
     "ws": "^7.3.0",
     "zero-fill": "^2.2.3"
